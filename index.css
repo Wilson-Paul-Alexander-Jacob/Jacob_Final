@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+html{
+   color: black;
+    font-family: 'Tangerine', cursive;
+    background-color: burlywood;}
+/* Body Styles */
+body{
+   background-color: wheat;
+    max-width: 960px;
+    min-width: 640px;
+    width: 95%;
+    margin: 0 auto;
+ }
+ nav.horizontalNavigation a {
+   background-color: rgb(113, 86, 39);
+   font-family: Champagne, cursive;
+   font-size: 1.4em;
+   line-height: 1.8em;
+   text-decoration-line: none;
+   text-align: center;
+   
+
+}  
+
+nav.horizontalNavigation a:link, 
+nav.horizontalNavigation a:visited {
+   color: gray;
+   text-decoration-line: none;
+}
+
+nav.horizontalNavigation a:hover, 
+nav.horizontalNavigation a:active {
+   background-color: yellow;
+   text-decoration-line: none;
+}   
+ body>p
+ {
+    background-color: tan;
+ }
+ body#1{
+    width: .5em;
+ }
+ body>aside>img{
+    display: block;
+    width: 20%;
+ }
+ body > footer {
+   font-size: 0.9em;
+   color: rgb(186, 186, 156);
+}

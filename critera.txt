@@ -1,0 +1,26 @@
+Your site must have a default page as well as at least 3 other html page that is linked from the default page
+Name the default page to index.html and have index_styles.css file for the styles of your web page
+index_styles.css must be linked into index.html to style the page
+Index.html must have at least 10 different types of HTML tags(any tag excluding <!DOCTYPE html>,
+<html>, <head>, <body> will qualify towards this count)
+
+Refer to this page1 (Links to an external site.) or this page2 (Links to an external site.) for a comprehensive list of different HTML tags
+Index_styles.css must have at least 5 different CSS selectors
+In the files that you write for your site:
+You must add an id attribute to at least 5 different elements, and a class attribute to at least 5 different elements
+CSS Selectors: Use at least 5 different contextual selectors in your css files (e.g. section p{ … }, section>h1{…} )
+Use ids or classes in 3 different selectors in your CSS files(e.g. #unique {….})
+Use the box model: at least 5 different CSS selectors must apply one or more of margin, padding, or border styles to some HTML elements
+One of your sites needs to be implemented with grid layout
+One of your sites(or part of your site) needs to be implemented with float-based layout
+Use at least 5 different pseudo-class or pseudo-elements
+Make the font color different for all pages
+Use 2 or more of absolute units and 2 or more of relative units(i.e. viewport unit(vw, vh, vmin, vmax) or em or px) for font-size or padding/margin space, etc.
+Use the google fonts
+Have a navigation menu to link the pages each other
+Minimum 3 images on each page
+For at least one page, use an image for the icon image of the list
+Have a layout.css file to put the rules of layout
+
+Add a comment to your code with the number, so I can easily see your implementation
+ 
